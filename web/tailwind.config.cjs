@@ -7,7 +7,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        galaxy: "url('/assets/fundo.png')",
+        galaxy: "url('/fundo.png')",
         "nlw-gradient":
           "linear-gradient(89.86deg, #9572FC 23.08%, #43E7AD 50.94%, #E1D55D 80.57%)",
         "box-gradient":
